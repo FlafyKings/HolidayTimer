@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Holiday Timer</string>
+    <string name="changeDate">Change Date</string>
+    <string name="dayLeftValue">245</string>
+    <string name="dayLeftText">days</string>
+    <string name="hourLeftValue">19</string>
+    <string name="hourLeftText">hours</string>
+    <string name="minuteLeftValue">45</string>
+    <string name="minuteLeftText">minutes</string>
+    <string name="secondLeftValue">13</string>
+    <string name="secondLeftText">seconds</string>
+    <string name="one">x</string>
+
+    <string name="timeLeft">Time left to holiday:</string>
+</resources>
